@@ -1,0 +1,22 @@
+import Foundation
+
+var ok = "okay!"
+print(ok)
+
+var stockprice = 100
+print(stockprice)
+
+let This_is_a_constant = "String is constant"
+
+var blahblahblah:String = "Expect it is a string"
+
+ok = "Change string"
+print(ok)
+
+var aInteger:Int = 51
+
+var aFloatIs:Float = 4.124
+
+var BoolVariable:Bool = true
+
+var DoubleTime:Double = 4.162134

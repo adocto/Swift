@@ -1,0 +1,12 @@
+import Foundation
+
+
+var str = "Test"
+
+let a = 25
+let b = 102
+let c = 214
+
+if (a <= 10 || b > 5) && c == 214 {
+    print("system 1")
+}
